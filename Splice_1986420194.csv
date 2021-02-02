@@ -1,0 +1,19 @@
+Summary Splice Report
+Prepared By:,Yassir Aziz
+On: ,13/06/2019
+Splice name:,3LYN-23-11-SMP-002: Drop Side
+Location:,
+Address:,223 GREENS RD
+Coordinates:,341731.574,5791383.217
+Latitude/Longitude:,-38.011429,145.197136
+Enclosure Type:,NBN_SMP_4PORT
+Segment,Count,Start Splice,End Splice,Owner,Cable Design Length,Cable Asbuilt Length
+3LYN-23-11-SMP-002 CORNING_SMP_4PORT,4,,,NBNCO,,
+Segment 1 of 3LYN-23-11-SDS-600 - Underground,1,4 Port Multiport (With Integrated 1:4 Splitter): 3LYN-23-11-SMP-002,Fibre External Premise Connection Point: 3LYN-23-11-PCD-600,,124.500,0.000
+
+Splicing summary
+
+3LYN-23-11-SMP-002: Drop Side: 4,>,3LYN2311SDS600: 1
+
+Unconnected fibers
+3LYN-23-11-SMP-002: Drop Side: 2-4,>,Unconnected

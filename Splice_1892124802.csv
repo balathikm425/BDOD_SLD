@@ -1,0 +1,26 @@
+Summary Splice Report
+Prepared By:,Yassir Aziz
+On: ,13/06/2019
+Splice name:,3LYN-23-11-BJL-014
+Location:,
+Address:,45X GREENS RD
+Coordinates:,341573.466,5791700.226
+Latitude/Longitude:,-38.008546,145.195406
+Enclosure Type:,TYCO_OFDC_A4
+Segment,Count,Start Splice,End Splice,Owner,Cable Design Length,Cable Asbuilt Length
+Segment 1 of 3LYN-23-11-FSL-014 - Underground,12,Splice Case: 3LYN-23-11-FJL-001,Splice Case: 3LYN-23-11-BJL-014,NBNCO,237.940,257.100
+Segment 1 of 3LYN-23-11-SSS-053 - Underground,1,Splice Case: 3LYN-23-11-BJL-014,4 Port Multiport (With Integrated 1:4 Splitter): 3LYN-23-11-SMP-001,NBNCO,27.110,25.500
+Segment 1 of 3LYN-23-11-FSL-015 - Underground,12,Splice Case: 3LYN-23-11-BJL-014,Splice Case: 3LYN-23-11-BJL-015,NBNCO,625.000,609.300
+
+Splicing summary
+3LYN2311FSL014: 1,>,3LYN2311SSS053: 1
+3LYN2311FSL014: 2,>,3LYN2311FSL015: 1
+
+3LYN2311FSL014: 3-4,>,3LYN2311FSL015: 3-4
+
+
+
+Unconnected fibers
+3LYN2311FSL014: 5-12,>,Unconnected
+Unconnected,>,3LYN2311FSL015: 2
+Unconnected,>,3LYN2311FSL015: 5-12
